@@ -1,4 +1,9 @@
 # Play-Store-App-Review-Analysis-capstone-ml2
+Google colab Link :  https://colab.research.google.com/drive/1j73UOLomJ8-EkeNYS2dAXm_XUhQ0rs3R?usp=sharing
+
+Data Set lInk:
+Play Store Data CSV file: https://drive.google.com/file/d/1CrBwUOY_BWMzaCDjwPKqAWOGanKsTmjO/view?usp=sharing
+User Reviews CSV file : https://drive.google.com/file/d/1YlAHoSll4dcPIMWfLA9aBrSrjuSuwDEU/view?usp=sharing
 
 🎯 Project Title
 Google Play Store App Review Analysis – Data Exploration & Insights
